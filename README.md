@@ -22,7 +22,7 @@ To get started with the Django Job Finder application, follow these steps:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/job-finder-app.git
+    git clone https://github.com/Bhagwan-D-GoD/Job-Seeker
     cd job-finder-app
     ```
 
