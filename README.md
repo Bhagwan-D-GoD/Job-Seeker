@@ -117,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributing
 
-Feel free to open issues or pull requests on the [GitHub repository](https://github.com/yourusername/job-finder-app).
+Feel free to open issues or pull requests on the [GitHub repository](https://github.com/Bhagwan-D-GoD/Job-Seeker).
